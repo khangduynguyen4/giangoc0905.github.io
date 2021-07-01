@@ -9,7 +9,7 @@
   <body>
     <style>
       body {
-        background-image: url('hinh-nen-desktop-meo-1000x577.jpg');
+        background-image: url('');
       }
       </style>
     <div id="header">
